@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacemovie/static/css/main.32e61399.css",
+    "main.js": "/reacemovie/static/js/main.fe3d455c.js",
+    "index.html": "/reacemovie/index.html",
+    "main.32e61399.css.map": "/reacemovie/static/css/main.32e61399.css.map",
+    "main.fe3d455c.js.map": "/reacemovie/static/js/main.fe3d455c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32e61399.css",
+    "static/js/main.fe3d455c.js"
+  ]
+}
